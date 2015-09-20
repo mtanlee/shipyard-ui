@@ -1,0 +1,4 @@
+*.swp
+build
+semantic/dist
+node_modules

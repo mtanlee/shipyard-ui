@@ -1,0 +1,6 @@
+{
+  "name": "ContainersPage",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ContainersPage.js"
+}
