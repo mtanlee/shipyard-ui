@@ -96,6 +96,7 @@
     ]
   },
   "scripts": {
+    "semantic": "gulp build",
     "lint": "eslint src tools",
     "csslint": "csscomb src/components --lint --verbose",
     "csscomb": "csscomb src/components --verbose",
