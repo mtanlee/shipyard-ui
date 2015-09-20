@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+.Navbar-logo {
+    font-family: 'Poiret One', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: none;
+}
+
